@@ -1,7 +1,7 @@
 # EZGripper3Dmodels
 
 
-Here's how to download the file.
+Here's an example of how to download the file.
 
 Download the RAW file EZGripper3Dmodels/EZGripperAssembly-MODEL.stp
 
